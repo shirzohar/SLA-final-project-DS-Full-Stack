@@ -11,7 +11,6 @@ The **SLA Anomaly Detection System** is a real-time monitoring and prediction pl
   - XGBoost - Predicting SLA times
   - Random Forest - Anomaly detection
   - AdaBoost & Naive Bayes - Performance comparison
-- **Deployment:** Azure
 
 ## Features
 
