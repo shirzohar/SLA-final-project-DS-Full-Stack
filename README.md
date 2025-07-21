@@ -49,3 +49,10 @@ The **SLA Anomaly Detection System** is a real-time monitoring and prediction pl
 - Visit `http://localhost:3000` to access the application.
 - The dashboard will display real-time SLA tracking, anomaly alerts, and optimization suggestions.
 - Use the API to fetch real-time data and update service status.
+
+## 📷 Screenshots
+
+![New Service](1.jpg)
+![Gemini](2.jpg)
+![](3.jpg)
+![](4.jpg)
